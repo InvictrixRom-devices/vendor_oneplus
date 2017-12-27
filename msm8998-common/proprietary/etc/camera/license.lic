@@ -1,0 +1,12 @@
+How to obtain your own copy of license.lic from a running device:
+
+1. Make sure to have ADB installed
+2. Run adb pull /system/etc/camera/license.lic
+3. The file is now on your computer.
+
+Fuck off SenseTime. Can't copyright my instructions.
+
+A simple email would have sufficed, but you wasted everyone's times instead.
+
+
+Copyright © 2018 Jacob McSwain
